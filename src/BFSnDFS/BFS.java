@@ -63,6 +63,7 @@ public class BFS {
         b.addedge(2,3);
         b.addedge(3,3);
 
+
         System.out.println("Following is BFS stating from vertex 1");
 
         b.breadthfirstsearch(1);
