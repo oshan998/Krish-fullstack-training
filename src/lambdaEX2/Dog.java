@@ -1,13 +1,13 @@
 package lambdaEX2;
 
-public class Dog implements interface2 {
+//public class Dog implements interface2 {
 
-   public String name;
-    public int height;
+  // public String name;
+    //public int height;
 
-    public Dog(){}
+    //public Dog(){}
 
-    public void bark(){
-       System.out.println("baw baw!!!");
-    }
-}
+    //public void bark(){
+     //  System.out.println("baw baw!!!");
+    //}
+//}
